@@ -47,7 +47,7 @@ Visit http://127.0.0.1:8050/ in your browser to access the web app.
 
 ## Contributing
 
-Contributions are welcome! If you have suggestions, feature requests, or bug reports, please [open an issue](link-to-issues) or create a [pull request](link-to-pull-requests).
+Contributions are welcome! If you have suggestions, feature requests, or bug reports, please [open an issue](https://github.com/Aqsaafk/SDG_6.2_Analytical_Dashboard/issues) or create a [pull request](https://github.com/Aqsaafk/SDG_6.2_Analytical_Dashboard/pulls).
 
 ## License
 
@@ -59,7 +59,7 @@ For inquiries, contact us at [aqsa.shoeb0745@gmail.com](mailto:aqsa.shoeb0745@gm
 
 ## Acknowledgments
 
-- Data source: UN Sustainable Development Goals
+- Data source: [UN Sustainable Development Goals](https://www.un.org/sustainabledevelopment/)
 - Special thanks to the Dash and Plotly communities.
 
 
