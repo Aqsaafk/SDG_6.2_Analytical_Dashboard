@@ -1,5 +1,4 @@
 # SDG_6.2_Analytical_Dashboard
-# SDG Dashboard Web App
 
 ## Overview
 
