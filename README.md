@@ -18,7 +18,9 @@ Install the requirements after activating the virtual environment inside the
 'SDG_Dashboard' folder
 
 For activating python virtual environment through terminal use this command:
+```bash
 venv\Scripts\activate
+```
 
 ## Requirements
 
